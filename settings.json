@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Gemsmc179.aternos.me",
+    "port": 55509
+    ,
     "version": "1.21.1"
   },
   "position": {
