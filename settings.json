@@ -3,11 +3,13 @@
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "offline"
+    "type": "offline
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Gemsmc179.aternos.me
+",
+    "port": 55509
+    ,
     "version": "1.21.1"
   },
   "position": {
@@ -37,8 +39,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 30000
+    "max-reconnect-delay": 30000,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
